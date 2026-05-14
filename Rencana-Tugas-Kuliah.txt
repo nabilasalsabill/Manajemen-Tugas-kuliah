@@ -8,4 +8,5 @@ Rencana Tugas Kuliah
   * Proyek STEAM
 - Matematika Keuangan
 - Statistika Multivariat
+  * Artikel Penelitian
 - Tren dan Isu Pembelajaran Matematika
