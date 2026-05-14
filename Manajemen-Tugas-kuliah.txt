@@ -1,0 +1,5 @@
+Manajemen Tugas Kuliah
+- Komputasi dan Pemrograman Lanjutan
+- Pemodelan Matematika
+- Lingkungan Pembelajaran Matematika
+- Karya Tulis Ilmiah
