@@ -6,6 +6,10 @@ Rencana Tugas Kuliah
     ^ Metode Penelitian
 - STEAM
   * Laporan Pengerjaan Proyek
+    ^ Struktur Penulisan
+- STEAM
+  * Proyek STEAM
 - Matematika Keuangan
 - Statistika Multivariat
+  * Artikel Penelitian
 - Tren dan Isu Pembelajaran Matematika
