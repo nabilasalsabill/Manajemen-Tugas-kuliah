@@ -3,7 +3,10 @@ Rencana Tugas Kuliah
 - Lingkungan Pembelajaran Matematika
 - Karya Tulis Ilmiah
   * Penulisan Proposal
+    ^ Struktur Penulisan
 - STEAM
+  * Proyek STEAM
 - Matematika Keuangan
 - Statistika Multivariat
+  * Artikel Penelitian
 - Tren dan Isu Pembelajaran Matematika
